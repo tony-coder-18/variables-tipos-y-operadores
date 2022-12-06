@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\VariablesTiposyOperadores\bin\Debug\net6.0\VariablesTiposyOperadores.exe
+C:\Users\ASUS\source\repos\VariablesTiposyOperadores\bin\Debug\net6.0\VariablesTiposyOperadores.deps.json
+C:\Users\ASUS\source\repos\VariablesTiposyOperadores\bin\Debug\net6.0\VariablesTiposyOperadores.runtimeconfig.json
+C:\Users\ASUS\source\repos\VariablesTiposyOperadores\bin\Debug\net6.0\VariablesTiposyOperadores.dll
+C:\Users\ASUS\source\repos\VariablesTiposyOperadores\bin\Debug\net6.0\VariablesTiposyOperadores.pdb
+C:\Users\ASUS\source\repos\VariablesTiposyOperadores\obj\Debug\net6.0\VariablesTiposyOperadores.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\VariablesTiposyOperadores\obj\Debug\net6.0\VariablesTiposyOperadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\VariablesTiposyOperadores\obj\Debug\net6.0\VariablesTiposyOperadores.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\VariablesTiposyOperadores\obj\Debug\net6.0\VariablesTiposyOperadores.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\VariablesTiposyOperadores\obj\Debug\net6.0\VariablesTiposyOperadores.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\VariablesTiposyOperadores\obj\Debug\net6.0\VariablesTiposyOperadores.dll
+C:\Users\ASUS\source\repos\VariablesTiposyOperadores\obj\Debug\net6.0\refint\VariablesTiposyOperadores.dll
+C:\Users\ASUS\source\repos\VariablesTiposyOperadores\obj\Debug\net6.0\VariablesTiposyOperadores.pdb
+C:\Users\ASUS\source\repos\VariablesTiposyOperadores\obj\Debug\net6.0\VariablesTiposyOperadores.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\VariablesTiposyOperadores\obj\Debug\net6.0\ref\VariablesTiposyOperadores.dll

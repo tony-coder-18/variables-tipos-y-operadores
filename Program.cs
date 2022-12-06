@@ -33,3 +33,25 @@ float large = 443.1f;
 string material = "Wood";
 
 string colour = "Brown";
+
+// EJERCICIO 3
+//a
+int numero = 18;
+
+if (numero >= 18)
+    Console.WriteLine("El numero es mayor o igual a 18");
+
+//b
+char caracter = 'a';
+if (caracter == 'a')
+    Console.WriteLine("El char es 'a'");
+
+//c
+if (caracter == 'a' && numero >= 18)
+    Console.WriteLine("Las dos condiciones son verdaderas");
+
+//d
+if (caracter == 'a' && numero < 18)
+    Console.WriteLine("Las dos condiciones son verdaderas");
+else
+    Console.WriteLine("Solo una de las dos condiciones es verdadera");

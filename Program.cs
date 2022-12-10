@@ -54,4 +54,4 @@ if (caracter == 'a' && numero >= 18)
 if (caracter == 'a' && numero < 18)
     Console.WriteLine("Las dos condiciones son verdaderas");
 else
-    Console.WriteLine("Solo una de las dos condiciones es verdadera");
+    Console.WriteLine("Solo una de las dos condiciones es verdadera.");
